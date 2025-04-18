@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "fileInfo": {
+    "hash": "0x6ffafb23aec6f58f1cedd43ef2e397d124a368198eabd8c40f20402647866b7a",
+    "name": "KUMPULAN DJ REGGAE SLOW TERBARU DJ CAMPURAN VIRAL TIKTOK 2024🎵.pin.json",
+    "size": 1199,
+    "mimeType": "application/json"
+  },
+  "pinData": {
+    "originalHash": "0x6ffafb23aec6f58f1cedd43ef2e397d124a368198eabd8c40f20402647866b7a",
+    "powHash": "0x08229129907d5867febe4289c9af2376ee0c680e1b82734ec3aed0416fff07d4",
+    "timestamp": 1744931971,
+    "metadata": "",
+    "proof": [
+      "0x0000000000000000000000000000000000000000000000000000000000000011"
+    ]
+  },
+  "pinnerInfo": {
+    "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+  },
+  "blockchainInfo": {
+    "network": "localhost",
+    "networkId": 1337,
+    "contractAddress": "0x1defA77a9bBC720Cddd30E3b070e98E0Bf5eC132",
+    "transactionHash": "0x34fbe88bf9f910a278fe2562a983990ecae049fb315eca620bd3c562883a5cae",
+    "blockNumber": 0
+  },
+  "services": {
+    "claimUrl": "https://hashpin.io/claim?hash=0x6ffafb23aec6f58f1cedd43ef2e397d124a368198eabd8c40f20402647866b7a",
+    "verifyUrl": "https://hashpin.io/verify?hash=0x6ffafb23aec6f58f1cedd43ef2e397d124a368198eabd8c40f20402647866b7a"
+  }
+}
